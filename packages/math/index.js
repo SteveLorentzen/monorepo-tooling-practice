@@ -1,1 +1,1 @@
-export { add } from './src/index';
+export { funMath, funMath2 } from './src/index';
