@@ -1,0 +1,15 @@
+{
+  "name": "verdaccio-test",
+  "version": "1.0.0",
+  "description": "testing to see if I can get publishing to verdaccio to work",
+  "main": "index.js",
+  "author": "Steve Lorentzen",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "lerna": "^6.4.1"
+  }
+}

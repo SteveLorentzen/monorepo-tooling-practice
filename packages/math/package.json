@@ -1,0 +1,12 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "math stuff",
+  "main": "index.js",
+  "author": "Steve Lorentzen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "add": "^1.0.0"
+  }
+}
