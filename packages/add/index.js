@@ -1,1 +1,1 @@
-export { add } from './src/index';
+export { add, add3 } from './src/index';
